@@ -28,7 +28,7 @@ public class MyStudentRecordsMgmtApp
         System.out.println("******************************************************************");
         List<Student>mm=getListOfPlatinumAlumniStudents(students);
         mm.forEach(System.out::println);
-        int [] entry= {5,7,10,17,14,35};
+        int [] entry= {5,7,10,15,14,35};
         printHelloWorld(entry);
         findSecondBiggest(entry);
     }
