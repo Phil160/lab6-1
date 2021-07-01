@@ -24,12 +24,12 @@ public class MyStudentRecordsMgmtApp
         		new Student(110005,"Bob", LocalDate.of(1990, 03, 05)),
         		
         };
-        printListOfStudents(students);
-        System.out.println("******************************************************************");
-        List<Student>mm=getListOfPlatinumAlumniStudents(students);
-        mm.forEach(System.out::println);
+//        printListOfStudents(students);
+//        System.out.println("******************************************************************");
+//        List<Student>mm=getListOfPlatinumAlumniStudents(students);
+//        mm.forEach(System.out::println);
         int [] entry= {5,7,10,15,14,35};
-        printHelloWorld(entry);
+//        printHelloWorld(entry);
         findSecondBiggest(entry);
     }
     private static void printListOfStudents(Student[]students) {

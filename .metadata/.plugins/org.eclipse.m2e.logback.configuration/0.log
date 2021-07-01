@@ -166,3 +166,36 @@
 2021-06-30 16:35:41,866 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\main\resources
 2021-06-30 16:35:41,867 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-06-30 16:35:41,867 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\test\resources
+2021-06-30 17:50:57,109 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-06-30 17:51:12,634 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 17:51:12,634 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\main\resources
+2021-06-30 17:51:12,637 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 17:51:12,637 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\test\resources
+2021-06-30 17:55:43,040 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 17:55:43,041 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\main\resources
+2021-06-30 17:55:43,043 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 17:55:43,043 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\test\resources
+2021-06-30 19:53:02,881 [Worker-7: Launching MyStudentRecordsMgmtApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 19:53:02,882 [Worker-7: Launching MyStudentRecordsMgmtApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\main\resources
+2021-06-30 19:53:02,883 [Worker-7: Launching MyStudentRecordsMgmtApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 19:53:02,884 [Worker-7: Launching MyStudentRecordsMgmtApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\test\resources
+2021-06-30 19:53:20,696 [Worker-12: Launching MyStudentRecordsMgmtApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 19:53:20,696 [Worker-12: Launching MyStudentRecordsMgmtApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\main\resources
+2021-06-30 19:53:20,698 [Worker-12: Launching MyStudentRecordsMgmtApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 19:53:20,698 [Worker-12: Launching MyStudentRecordsMgmtApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\test\resources
+2021-06-30 20:37:35,540 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 20:37:35,540 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\main\resources
+2021-06-30 20:37:35,541 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 20:37:35,541 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\test\resources
+2021-06-30 21:34:48,739 [Worker-23: Launching MyStudentRecordsMgmtApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 21:34:48,739 [Worker-23: Launching MyStudentRecordsMgmtApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\main\resources
+2021-06-30 21:34:48,741 [Worker-23: Launching MyStudentRecordsMgmtApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 21:34:48,741 [Worker-23: Launching MyStudentRecordsMgmtApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\test\resources
+2021-06-30 22:10:00,164 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 22:10:00,165 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\main\resources
+2021-06-30 22:10:00,166 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 22:10:00,166 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\test\resources
+2021-06-30 22:10:19,140 [Worker-29: Launching MyStudentRecordsMgmtApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 22:10:19,140 [Worker-29: Launching MyStudentRecordsMgmtApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\main\resources
+2021-06-30 22:10:19,142 [Worker-29: Launching MyStudentRecordsMgmtApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-30 22:10:19,143 [Worker-29: Launching MyStudentRecordsMgmtApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\SWE-Eclipse\workspace-sts\studentrecordmgmapp\src\test\resources
