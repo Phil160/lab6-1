@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\SWE-Eclipse\workspace-sts\.metadata\.plugins\org.eclipse.jdt.core
+3391529300.index
+781675358.index
+2150762110.index
+2383495302.index

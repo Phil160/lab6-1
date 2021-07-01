@@ -1,0 +1,10 @@
+package edu.miu.cs_425.demo.studentrecordmgmapp.model;
+
+import java.time.LocalDate;
+
+public class Student {
+	private int studentId;
+	private String name;
+	private LocalDate dateOfAdmission;
+
+}

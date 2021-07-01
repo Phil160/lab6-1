@@ -1,0 +1,5 @@
+package edu.miu.cs_425.demo.studentrecordmgmapp.model;
+
+public class Student {
+
+}

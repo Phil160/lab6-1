@@ -1,0 +1,31 @@
+package edu.mum.cs.cs425.demos.studentrecordsmgmtapp;
+
+import java.time.LocalDate;
+import java.util.Arrays;
+import static java.util.Comparator.comparing;
+
+import edu.mum.cs.cs425.demos.studentrecordsmgmtapp.model.Student;
+
+/**
+ * Hello world!
+ *
+ */
+public class MyStudentRecordsMgmtApp 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        Student[] students= {
+        		new Student(110001,"Dave", LocalDate.of(1951, 11, 18)),
+        		new Student(110002,"Anna", LocalDate.of(1990, 12, 07)),
+        		new Student(110003,"Erica", LocalDate.of(1974, 01, 31)),
+        		new Student(110004,"Carlos", LocalDate.of(2009, 11, 22)),
+        		new Student(110005,"Bob", LocalDate.of(1990, 03, 05)),
+        		
+        };
+    }
+    private static void printListOfStudents(Student[]students) {
+    	Arrays.stream(students).sorted(Comparator.comparing(Student::getName)).forEach(System.out::println);
+    	
+    }
+}
